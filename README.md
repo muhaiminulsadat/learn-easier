@@ -2,14 +2,31 @@
 
 > **Agent Skill**: Turn course materials (lecture slides, handwritten/scanned notes, textbooks, transcripts, Word documents) into beautifully formatted, print-ready A4 exam-revision study notes, cheat sheets, infographics, and glossaries.
 
-Works natively with **Claude Code**, **Google Antigravity**, and other AI coding assistants supporting the standard Agent Skills specification.
+Compatible with **Claude Code**, **Google Antigravity**, **Cursor**, **GitHub Copilot**, **Codex**, and any agent supporting the open Agent Skills standard.
 
 ---
 
-## 🚀 Quick Install
+## ⚡ Instant Install (Recommended)
+
+Install directly using the official skills package manager:
+
+### Project Install:
+```bash
+npx skills add muhaiminulsadat/learn-easier
+```
+
+### Global Install (Available across all projects & agents):
+```bash
+npx skills add muhaiminulsadat/learn-easier -g
+```
+
+---
+
+## 🚀 Manual Install (Git Clone)
+
+If you prefer installing via git:
 
 ### 1. Claude Code
-To install globally across all Claude Code sessions:
 ```bash
 # macOS / Linux
 git clone https://github.com/muhaiminulsadat/learn-easier.git ~/.claude/skills/learn-easier
@@ -19,7 +36,6 @@ git clone https://github.com/muhaiminulsadat/learn-easier.git "$HOME\.claude\ski
 ```
 
 ### 2. Antigravity / Gemini
-To install globally across all Antigravity sessions:
 ```bash
 # macOS / Linux
 git clone https://github.com/muhaiminulsadat/learn-easier.git ~/.gemini/config/skills/learn-easier
@@ -28,8 +44,7 @@ git clone https://github.com/muhaiminulsadat/learn-easier.git ~/.gemini/config/s
 git clone https://github.com/muhaiminulsadat/learn-easier.git "$HOME\.gemini\config\skills\learn-easier"
 ```
 
-### 3. Project-Specific (Any AI Agent / Cursor / Windsurf)
-Clone into your project's `.agents/skills` folder:
+### 3. Project Workspace (Cursor / Windsurf / Codex)
 ```bash
 git clone https://github.com/muhaiminulsadat/learn-easier.git .agents/skills/learn-easier
 ```
@@ -49,9 +64,9 @@ The skill scripts run locally to parse and compile your notes to PDF:
 
 ---
 
-## 📖 How It Works
+## 📖 How to Use
 
-Once installed, simply ask your agent or use `/learn-easier`:
+Once installed, simply ask your agent or invoke `/learn-easier`:
 
 ```text
 /learn-easier "path/to/lecture_notes.pdf"
