@@ -1,0 +1,54 @@
+{
+  "title_lines": [
+    "Bituminous",
+    "Materials",
+    "&amp; Mix Design"
+  ],
+  "kicker": "BITUMINOUS MATERIALS · MIX DESIGN",
+  "tagline": "Bitumen-এর উৎস থেকে Marshall ও HVEEM mix design পর্যন্ত — হাতে-লেখা ক্লাস নোট থেকে সাজানো স্টাডি নোট।",
+  "cover_top": "CE 451 · PAVEMENT MATERIALS",
+  "header_right": "Hadi Sir · CE 451",
+  "footer_credit": "সংকলন: Anika",
+  "chapter_word": "অধ্যায়",
+  "toc_title": "সূচিপত্র",
+  "cover_contents": [
+    "Bitumen &amp; grades",
+    "Emulsion &amp; cutback",
+    "Aggregate tests",
+    "Weight–volume",
+    "Marshall method",
+    "HVEEM method"
+  ],
+  "credits": [
+    {
+      "label": "LECTURES BY",
+      "value": "Hadi Sir"
+    },
+    {
+      "label": "CLASS NOTES BY",
+      "value": "Anika"
+    },
+    {
+      "label": "COMPILED BY",
+      "value": "Sadat"
+    },
+    {
+      "label": "COURSE CODE",
+      "value": "CE 451"
+    }
+  ],
+  "extras": [
+    {
+      "file": "formulas",
+      "title": "সূত্র ও গুরুত্বপূর্ণ সংখ্যা",
+      "sub": "একনজরে cheat-sheet",
+      "mark": "∑"
+    },
+    {
+      "file": "glossary",
+      "title": "Key terms",
+      "sub": "English term + এক লাইনে বাংলা অর্থ",
+      "mark": "Aa"
+    }
+  ]
+}

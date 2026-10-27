@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*Output/
+*Build/
+.DS_Store
+Thumbs.db
+transcript.md
+prev/

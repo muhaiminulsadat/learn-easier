@@ -1,0 +1,7 @@
+<rect x="0" y="0" width="340" height="30" rx="6" fill="#2B2F45"/><text x="170" y="21" text-anchor="middle" fill="#fff" font-size="15" font-weight="700">Surface course</text>
+    <rect x="0" y="30" width="340" height="7" fill="#FFE36E"/>
+    <rect x="0" y="37" width="340" height="30" fill="#4A5068"/><text x="170" y="58" text-anchor="middle" fill="#fff" font-size="15" font-weight="700">Binder course</text>
+    <rect x="0" y="67" width="340" height="7" fill="#D9A441"/>
+    <rect x="0" y="74" width="340" height="40" fill="#C9B995"/><text x="170" y="100" text-anchor="middle" fill="#1A1F36" font-size="15" font-weight="700">Base course</text>
+    <rect x="0" y="114" width="340" height="40" fill="#E0D6BF"/><text x="170" y="140" text-anchor="middle" fill="#1A1F36" font-size="15" font-weight="700">Sub-base course</text>
+    <rect x="0" y="154" width="340" height="44" rx="0" fill="#F2E9D8"/><text x="170" y="181" text-anchor="middle" fill="#4A5068" font-size="15" font-weight="700">Subgrade</text>
